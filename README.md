@@ -20,6 +20,6 @@ Yet another (simple) URL shorterner service running with a node backend server, 
 3. Navigate to localhost/8080
 4. Enjoy!
 
-##Acknowledgements
+## Acknowledgements
 
 Built on top of boiler-plate coded provided by Vue, and Carlos Magno: https://medium.com/@raymag/building-an-url-shortener-api-with-nodejs-264c59fc0ce
