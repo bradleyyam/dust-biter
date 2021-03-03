@@ -22,4 +22,4 @@ Yet another (simple) URL shorterner service running with a node backend server, 
 
 ## Acknowledgements
 
-Built on top of boiler-plate coded provided by Vue, and Carlos Magno: https://medium.com/@raymag/building-an-url-shortener-api-with-nodejs-264c59fc0ce
+Built on top of boiler-plate coded provided by Vue, Bootstrap Styling and Carlos Magno: https://medium.com/@raymag/building-an-url-shortener-api-with-nodejs-264c59fc0ce
