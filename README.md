@@ -12,6 +12,7 @@ Yet another (simple) URL shorterner service running with a node backend server, 
 3. Install Server Management SSMS: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 4. Configure the local SQL server to accept TCP/IP traffic and also configure the login to allow for username and password access. The ports are default.
 5. Remember to set your server login password in ./server/models/orm.js, the default is blank.
+6. If first time initializing the SQL server, remember to use force sync to establish the schema. 
 
 ## Local Deployment
 
